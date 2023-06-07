@@ -19,3 +19,6 @@ Key Features:
 7. Medical Billing: The system handles medical billing by calculating and managing charges associated with doctor consultations, lab tests, staff services, medication, operations, and room occupancy. It provides comprehensive billing information for accurate and efficient financial management.
 
 The Hospital Management System is designed to streamline administrative tasks, enhance patient care, improve resource allocation, and facilitate effective communication within a hospital environment. It serves as a reliable and centralized repository of data, enabling authorized personnel to access and manage information securely and efficiently.
+
+### Schema 
+<img src="Schema.png" alt="Schmea">
